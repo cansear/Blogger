@@ -81,7 +81,7 @@ author:
   avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "I am nicer than you think."
   location         : "Somewhere"
-  email            : "280114413 at qq dot com"
+  email            : #"280114413 at qq dot com"
   uri              :
   bitbucket        :
   codepen          :
