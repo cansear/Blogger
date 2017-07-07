@@ -11,10 +11,10 @@ title                    : "About Medical Software"
 title_separator          : "-"
 name                     : "Charles Z. Liu"
 description              : "My secondary blogger."
-url                      : "https://cansear.github.io"
-baseurl                  : "/blogger"
-repository               : "cansear/blogger"
-teaser                   : "/assets/images/my_photo.jpg"
+url                      : #"https://cansear.github.io"
+baseurl                  : #"/blogger"
+repository               : #"cansear/blogger"
+teaser                   : #"/assets/images/my_photo.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Charles Z. Liu"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : #"/assets/images/bio-photo.jpg"
   bio              : "I am nicer than you think."
   location         : "Somewhere"
   email            : "280114413 at qq dot com"
