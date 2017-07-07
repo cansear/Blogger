@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Charles Z. Liu"
 description              : "My secondary blogger."
 url                      : #"https://cansear.github.io"
-baseurl                  : "/"
+baseurl                  : ""
 repository               : #"cansear/blogger"
 teaser                   : #"/assets/images/my_photo.jpg"
 # breadcrumbs            : false # true, false (default)
