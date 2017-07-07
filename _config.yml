@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Charles Z. Liu"
 description              : "My secondary blogger."
 url                      : #"https://cansear.github.io"
-baseurl                  : ""
+baseurl                  : #""
 repository               : #"cansear/blogger"
 teaser                   : #"/assets/images/my_photo.jpg"
 # breadcrumbs            : false # true, false (default)
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Charles Z. Liu"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am nicer than you think."
-  location         : "Somewhere"
-  email            : #"280114413 at qq dot com"
+  bio              : "I am Charles."
+  location         : "Shanghai, China"
+  email            : "280114413 at qq dot com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "cansear"
   gitlab           :
   google_plus      :
   keybase          :
