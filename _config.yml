@@ -15,19 +15,20 @@ url                      : #"https://cansear.github.io"
 baseurl                  : #""
 repository               : #"cansear/blogger"
 teaser                   : #"/assets/images/my_photo.jpg"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+# false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "facebook" 
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+    https://developers.facebook.com/docs/plugins/comments
     appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    num_posts            :  5 (default)
+    colorscheme          :  "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
@@ -240,8 +241,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
-      read_time: true
+      author_profile: true
+      read_time: false
       comments: true
       share: true
       related: true
