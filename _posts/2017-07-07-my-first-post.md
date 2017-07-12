@@ -1,6 +1,5 @@
 ---
 excerpt: "This is my first post on GitHub pages."
-categories: Uncategorized
 tags: Introduction Experiment
 ---
 This is my first post on **GitHub Pages**. 
