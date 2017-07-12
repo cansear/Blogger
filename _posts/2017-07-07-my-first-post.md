@@ -1,6 +1,5 @@
 ---
-tags: 
-	-Introduction
+excerpt: "This is my first post [...]"
 ---
 This is my first post on **GitHub Pages**. 
 I'm trying to use this repository to record some of my programs. 
